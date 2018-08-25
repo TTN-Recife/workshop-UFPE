@@ -4,6 +4,8 @@
 
 [Gateway LoRaWAN de unico canal baseado em Raspberry Pi](https://github.com/eron93br/lorawan/tree/master/rpi-gtw)
 
-- JSON Thing board
+- Configuração placa
 
 https://raw.githubusercontent.com/sparkfun/Arduino_Boards/master/IDE_Board_Manager/package_sparkfun_index.json 
+
+- [Windows 7](https://drive.google.com/file/d/0B0jwgLkjMWzDNkdjcmxfWXd1N2s/view?ts=5718ec51)
