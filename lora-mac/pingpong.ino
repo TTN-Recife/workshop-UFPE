@@ -14,9 +14,9 @@
 #include <SPI.h>              // include libraries
 #include <LoRa.h>
 
-const int csPin = 8;          // LoRa radio chip select
-const int resetPin = 1;       // LoRa radio reset
-const int irqPin = 7;         // change for your board; must be a hardware interrupt pin
+const int csPin = 10;          // LoRa radio chip select
+const int resetPin = 0;       // LoRa radio reset
+const int irqPin = 4;         // change for your board; must be a hardware interrupt pin
 
 String outgoing;              // outgoing message
 
